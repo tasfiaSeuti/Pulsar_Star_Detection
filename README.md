@@ -5,9 +5,6 @@ In this project, the idea is to predict if a star is a pulsar star or not. The
 result of the models will be binary: 1 if the star is a pulsar star and 0 otherwise. Thus,
 I implemented classification models to answer this problem
 
-### Dataset
-[pulsar_stars.csv](https://github.com/tasfiaSeuti/Pulsar_Star_Detection/files/9440194/pulsar_stars.csv)
-
 ### Description
 
 Pulsars are a rare type of Neutron star that produce radio emission detectable here on Earth.
